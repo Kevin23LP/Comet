@@ -1,0 +1,119 @@
+.navallmenu{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: space-between;
+    padding: 0px 50px ;
+    align-items: center;
+    position: fixed;
+    transition: all ease-out .3s;
+    top: 0;
+}
+.navinmove{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    transition: all ease-out .3s;
+    z-index: 1;
+    
+    box-shadow: 10px 0px 20px 0px black;
+}
+.navinmove .navlink{
+    color: black;
+    transition: all ease-out .3s;
+}
+.navinmove .logonav a{
+    color: black;
+    transition: all ease-out .3s;
+}
+.logonav a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    position: relative;
+    transition: all ease-in .3s;
+}
+.linksnavdiv{
+    display: flex;
+    gap: 20px;
+}
+.linksnavdiv li{
+    list-style: none;
+}
+.navlink{
+    position: relative;
+    text-decoration: none;
+    color: white;
+    transition: all ease-out .3s;
+    font-weight: 500;
+    transition: all ease .3s;
+}
+.navlink:hover{
+    color: #F26D6D;
+}
+.menuboxnav{
+    display: none;
+}
+.navcta{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    transition: all ease-out .3s;
+    font-weight: 500;
+    background-color: #79F297;
+    padding: 15px;
+    border-radius: 200px;
+    box-shadow: 0px 0px 48px 0px #79F297;
+}
+.navcta:hover{
+    background-color: #F26D6D;
+    color: white;
+}
+
+@media (max-width: 425px) {
+    .linksnavdiv{
+        flex-direction: column;
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        top: 80px;
+        align-items: center;
+        left: 500px;
+        background-color: lightseagreen;
+        
+        transition: all ease-out .3s;
+    }
+    
+    .translatenavmobile{
+        left: 0 ;
+        transition: all ease-out .3s;
+    }
+    .navlink{
+        font-size: 20px;
+    }
+    .menuboxnav{
+        display: none;
+    }
+    
+    .navinmove .menuboxnav{
+        display: block;
+        cursor: pointer;
+        transition: all ease-out .3s;
+    }
+    .menuboxnav img{
+        width: 40px;
+        position: relative;
+        
+    }
+    .navallmenu{
+        padding: 0 30px;
+        justify-content: center;
+        position: fixed;
+    }
+    .movilenav{
+        justify-content: space-between;
+        transition: all ease-out .3s;
+    }
+
+}

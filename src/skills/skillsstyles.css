@@ -1,0 +1,55 @@
+.desarrollo-web {
+  text-align: center;
+  padding: 20px;
+  background-color: blanchedalmond;
+}
+
+.desarrollo-web h2 {
+  font-size: 24px;
+  
+  margin-bottom: 20px;
+
+  display: inline-block;
+}
+
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.grid-item {
+  flex: 1 1 45%;
+  width: 45%;
+  padding: 20px;
+  text-align: left;
+}
+
+.grid-item img {
+  width: 50px; /* Ajustar tamaño de los íconos */
+  height: auto;
+}
+
+h3 {
+  font-size: 18px;
+  color: #007BFF; /* Color del texto */
+}
+
+p {
+  font-size: 14px;
+  color: #333;
+}
+@media (max-width:425px) {
+  .grid-container{
+    flex-direction: column;
+
+  }
+  .desarrollo-web{
+    padding: 50px 0;
+  }
+  .grid-item{
+    width: 100%;
+    text-align: center;
+  }
+}

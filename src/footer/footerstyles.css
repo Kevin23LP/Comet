@@ -1,0 +1,19 @@
+.titlef{
+    text-align: center;
+}
+.titlef h1{
+    color: rgb(64, 64, 248);
+}
+.titlef p{
+    color: white;
+}
+.ficons{
+    display: flex;
+    justify-content: center;
+}
+.ficons img{
+    width: 30px;
+}
+.fsect{
+    padding: 50px 0px;
+}

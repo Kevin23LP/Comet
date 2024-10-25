@@ -1,0 +1,135 @@
+.heroconteiner{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.829), rgba(0, 0, 0, 0.397)), url(./martin-martz-P66DWe8AAbo-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h3divhero{
+    position: relative;
+    display: inline-block;
+    margin-top: 150px;
+    
+}
+.h3divhero h5{
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 200px;
+    animation: h5title 5s ease-out infinite;
+    box-shadow: 0px 0px 78px -9px antiquewhite;
+}
+@keyframes h5title {
+    50%{
+        background-color: #78adfd;
+        box-shadow: 0px 0px 86px 4px  #78adfd;
+    }
+}
+.h1divhero{
+    position: relative;
+    margin-top: 10px;
+}
+.h1divhero h1{
+    font-weight: 900;
+    font-size: 50px;
+    color: white;
+}
+.pdivhero p{
+    color: white;
+    padding: 0px 200px;
+}
+.linkshero{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+.herocta1{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-weight: 600;
+    border-radius: 200px;
+    font-size: 20px;
+    transition: all ease-out .3s;
+}
+.herocta1:hover{
+    color: white;
+    background-color: rgb(113, 204, 113);
+}
+.herocta2{
+    text-decoration: none;
+    border-radius: 200px;
+    border: solid 1px #79F297;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    transition: all ease-out .3s;
+}
+.herocta2:hover{
+    color: black;
+    background-color: white;
+    border-color: white;
+}
+.h1spanised{
+    background-image: linear-gradient(45deg, #78adfd, #fa8064);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.wasapico{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    border-radius: 100%;
+    background-color: #79F297;
+    width: 50px;
+    display: inline-block;
+    box-shadow: 0px 0px 78px 9px #79F297;
+    animation: wasapflota 3s ease-in-out  infinite;
+    cursor: pointer;
+    transition: all ease-out .3s;
+}
+.wasapico img{
+    width: 100%;
+    position: relative;
+}
+.wasapico:hover{
+    background-color: rgb(123, 207, 123);
+}
+@keyframes wasapflota {
+    50% {
+        transform: translateY(10px);
+        
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+
+
+@media (max-width: 425px) {
+    .pdivhero p{
+       padding: 0;
+    }
+    .heroconteiner{
+        height: auto;
+        padding-bottom: 50px;
+    }
+}
+@media (max-width: 320px) {
+    .h1divhero h1{
+        font-size: 30px;
+    }
+    .h3divhero h5{
+        font-size: 10px;
+        
+    }
+    .wasapico{
+        width: 40px;
+    }
+    .linkshero{
+        gap: 10px;
+    }
+}
