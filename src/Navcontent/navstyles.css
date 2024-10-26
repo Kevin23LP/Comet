@@ -8,6 +8,10 @@
     position: fixed;
     transition: all ease-out .3s;
     top: 0;
+    z-index: 1;
+}
+.navboxmenuactive{
+    display: none;
 }
 .navinmove{
     position: sticky;
@@ -72,6 +76,34 @@
 }
 
 @media (max-width: 425px) {
+    .navboxmenuactive{
+        display: flex;
+        display: inline;
+        flex-direction: column;
+        position: fixed;
+        background-color: #F26D6D;
+        height: 100vh;
+        width: 100%;
+        gap: 30px;
+        text-align: center;
+        top: 80px;
+        left: 500px;
+        z-index: 1;
+        transition: all ease-out .5s;
+    }
+    .navboxmenuactive a{
+        display: block;
+        text-decoration: none;
+        font-size: 30px;
+        color: black;
+    }
+    .menuonwindow{
+        left: 0;
+        transition: all ease-out .5s;
+    }
+    .btnonwindowdiv{
+        background-color: bisque;
+    }
     .linksnavdiv{
         flex-direction: column;
         position: fixed;

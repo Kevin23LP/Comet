@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className='fontpopins fsect'>
         <div className='titlef'>
-            <h1>Comet</h1>
+            <h1>SvetComet</h1>
             <p>Brindamos soluciones digitales para tu empresa, aprovechando al maximo la tecnologia y las mejores tecnicas para potenciar cualquier negocio.</p>
         </div>
         <div className='ficons'>

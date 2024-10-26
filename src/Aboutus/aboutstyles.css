@@ -2,6 +2,7 @@
     width: 100%;
     background-color: lightblue;
     padding: 50px 100px;
+    
 }
 .uscontent{
     display: flex;
@@ -9,9 +10,13 @@
 .imgusdiv{
     width: 50%;
 }
+.elementh1{
+    transition: all ease-out .5s;
+}
 .imgusdiv img{
     width: 100%;
 }
+
 .txtdiv{
     width: 50%;
 }
@@ -50,7 +55,9 @@
     display: inline-block;
     margin-top: 20px;
 }
-
+.txtussect{
+    transition: all ease-out 0.5s;
+}
 
 @media (max-width: 425px) {
     .ustitleh1{
