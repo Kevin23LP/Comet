@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Comet/build/static/css/main.83b00bc8.css",
+    "main.js": "/Comet/build/static/js/main.827edac6.js",
+    "static/js/453.815728ae.chunk.js": "/Comet/build/static/js/453.815728ae.chunk.js",
+    "static/media/rb_106553.png": "/Comet/build/static/media/rb_106553.397592d9d55f5c1fc52a.png",
+    "static/media/rb_5925.png": "/Comet/build/static/media/rb_5925.944de4e81705a8953426.png",
+    "static/media/CSS-Logo.png": "/Comet/build/static/media/CSS-Logo.52b54365f9b5170db7e8.png",
+    "static/media/martin-martz-P66DWe8AAbo-unsplash.jpg": "/Comet/build/static/media/martin-martz-P66DWe8AAbo-unsplash.95073b86421bf9eca92f.jpg",
+    "static/media/Mysql_logo.png": "/Comet/build/static/media/Mysql_logo.67795d64ad5d7aae3086.png",
+    "static/media/photoshoplogo.png": "/Comet/build/static/media/photoshoplogo.bf36849a863d91fbce44.png",
+    "static/media/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png": "/Comet/build/static/media/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.c29c61eb76112f032b98.png",
+    "static/media/png-transparent-figma-macos-bigsur-icon-thumbnail.png": "/Comet/build/static/media/png-transparent-figma-macos-bigsur-icon-thumbnail.6c3c3151f6d7eef4d14f.png",
+    "static/media/6 Landing Page Optimization Tips to Enhance Customer Experience - LearnWoo.jpg": "/Comet/build/static/media/6 Landing Page Optimization Tips to Enhance Customer Experience - LearnWoo.cdf5f7ca31825d56fea3.jpg",
+    "static/media/png-transparent-logo-html-html5.png": "/Comet/build/static/media/png-transparent-logo-html-html5.b70879b3f73533c9d892.png",
+    "static/media/Ilustración del concepto de equipo de diseño _ Vector Gratis.jpg": "/Comet/build/static/media/Ilustración del concepto de equipo de diseño _ Vector Gratis.6e8ac10ef20c3a51fb98.jpg",
+    "static/media/Ilustración de concepto de asistencia activa _ Vector Gratis.jpg": "/Comet/build/static/media/Ilustración de concepto de asistencia activa _ Vector Gratis.7f202753571b053b3c89.jpg",
+    "static/media/Nodejs.png": "/Comet/build/static/media/Nodejs.f546719dc4594f9d9928.png",
+    "static/media/tailwindlogotransparent.png": "/Comet/build/static/media/tailwindlogotransparent.14d608076f05007ca962.png",
+    "static/media/javalogopng.png": "/Comet/build/static/media/javalogopng.d004d88cc204b48b6f4d.png",
+    "static/media/logo.svg": "/Comet/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bxl-whatsapp.svg": "/Comet/build/static/media/bxl-whatsapp.7b1b87e188f271c43455c27714edc627.svg",
+    "index.html": "/Comet/build/index.html",
+    "static/media/bxl-github.svg": "/Comet/build/static/media/bxl-github.7f5f78b1168a9147c54884d407208933.svg",
+    "static/media/arrow-up-right-dots-solid.svg": "/Comet/build/static/media/arrow-up-right-dots-solid.8daad52db18481d79c21944e0f17aa45.svg",
+    "static/media/bxl-linkedin.svg": "/Comet/build/static/media/bxl-linkedin.675806ed35d17d1ce1e6a22d057bce28.svg",
+    "static/media/bx-menu.svg": "/Comet/build/static/media/bx-menu.5f798237d5148d61829aa41cfc4d7071.svg",
+    "main.83b00bc8.css.map": "/Comet/build/static/css/main.83b00bc8.css.map",
+    "main.827edac6.js.map": "/Comet/build/static/js/main.827edac6.js.map",
+    "453.815728ae.chunk.js.map": "/Comet/build/static/js/453.815728ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b00bc8.css",
+    "static/js/main.827edac6.js"
+  ]
+}
