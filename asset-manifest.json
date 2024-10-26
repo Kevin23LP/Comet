@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Comet/build/static/css/main.83b00bc8.css",
-    "main.js": "/Comet/build/static/js/main.827edac6.js",
+    "main.css": "/Comet/build/static/css/main.bbe4911c.css",
+    "main.js": "/Comet/build/static/js/main.aed46c5e.js",
     "static/js/453.815728ae.chunk.js": "/Comet/build/static/js/453.815728ae.chunk.js",
     "static/media/rb_106553.png": "/Comet/build/static/media/rb_106553.397592d9d55f5c1fc52a.png",
     "static/media/rb_5925.png": "/Comet/build/static/media/rb_5925.944de4e81705a8953426.png",
@@ -25,12 +25,12 @@
     "static/media/arrow-up-right-dots-solid.svg": "/Comet/build/static/media/arrow-up-right-dots-solid.8daad52db18481d79c21944e0f17aa45.svg",
     "static/media/bxl-linkedin.svg": "/Comet/build/static/media/bxl-linkedin.675806ed35d17d1ce1e6a22d057bce28.svg",
     "static/media/bx-menu.svg": "/Comet/build/static/media/bx-menu.5f798237d5148d61829aa41cfc4d7071.svg",
-    "main.83b00bc8.css.map": "/Comet/build/static/css/main.83b00bc8.css.map",
-    "main.827edac6.js.map": "/Comet/build/static/js/main.827edac6.js.map",
+    "main.bbe4911c.css.map": "/Comet/build/static/css/main.bbe4911c.css.map",
+    "main.aed46c5e.js.map": "/Comet/build/static/js/main.aed46c5e.js.map",
     "453.815728ae.chunk.js.map": "/Comet/build/static/js/453.815728ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83b00bc8.css",
-    "static/js/main.827edac6.js"
+    "static/css/main.bbe4911c.css",
+    "static/js/main.aed46c5e.js"
   ]
 }
