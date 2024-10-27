@@ -23,7 +23,7 @@
 @keyframes h5title {
     50%{
         background-color: #78adfd;
-        box-shadow: 0px 0px 86px 4px  #78adfd;
+        box-shadow: 0px 10px 72px 28px  #78adfd;
     }
 }
 .h1divhero{
@@ -100,7 +100,7 @@
 }
 @keyframes wasapflota {
     50% {
-        transform: translateY(10px);
+        transform: translateY(30px);
         
     }
     100%{

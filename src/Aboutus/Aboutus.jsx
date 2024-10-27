@@ -13,9 +13,6 @@ const Aboutus = () => {
         if(entry.isIntersecting){
           titulodus.style.transform = 'translateY(0)';
           varelm.style.transform = 'translateY(0)';
-        }else{
-          titulodus.style.transform = 'translateY(100px)';
-          varelm.style.transform = 'translateY(100px)';
         }
       });
     };

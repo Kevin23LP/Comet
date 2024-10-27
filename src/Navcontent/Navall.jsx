@@ -48,7 +48,7 @@ const Navall = () => {
     <div>
       <div className="navallmenu fontpopins">
         <div className="logonav">
-          <a className="fontpopins" href="#">SvetComet</a>
+          <a className="fontpopins" href="#">Comets</a>
         </div>
         <div className="menuboxnav">
           <img src={menuico} alt="" />
