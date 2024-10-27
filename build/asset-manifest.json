@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Comet/static/css/main.f2b20de6.css",
-    "main.js": "/Comet/static/js/main.da56e081.js",
+    "main.css": "/Comet/static/css/main.c9aa824f.css",
+    "main.js": "/Comet/static/js/main.3c8b78d2.js",
     "static/js/453.815728ae.chunk.js": "/Comet/static/js/453.815728ae.chunk.js",
     "static/media/rb_106553.png": "/Comet/static/media/rb_106553.397592d9d55f5c1fc52a.png",
     "static/media/rb_5925.png": "/Comet/static/media/rb_5925.944de4e81705a8953426.png",
@@ -25,12 +25,12 @@
     "static/media/arrow-up-right-dots-solid.svg": "/Comet/static/media/arrow-up-right-dots-solid.8daad52db18481d79c21944e0f17aa45.svg",
     "static/media/bxl-linkedin.svg": "/Comet/static/media/bxl-linkedin.675806ed35d17d1ce1e6a22d057bce28.svg",
     "static/media/bx-menu.svg": "/Comet/static/media/bx-menu.5f798237d5148d61829aa41cfc4d7071.svg",
-    "main.f2b20de6.css.map": "/Comet/static/css/main.f2b20de6.css.map",
-    "main.da56e081.js.map": "/Comet/static/js/main.da56e081.js.map",
+    "main.c9aa824f.css.map": "/Comet/static/css/main.c9aa824f.css.map",
+    "main.3c8b78d2.js.map": "/Comet/static/js/main.3c8b78d2.js.map",
     "453.815728ae.chunk.js.map": "/Comet/static/js/453.815728ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2b20de6.css",
-    "static/js/main.da56e081.js"
+    "static/css/main.c9aa824f.css",
+    "static/js/main.3c8b78d2.js"
   ]
 }
